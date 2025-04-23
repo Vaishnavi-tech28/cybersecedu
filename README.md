@@ -1,4 +1,4 @@
-# CyberSec Edu Platform
+# Cyber Edu Platform
 
 An interactive cybersecurity education platform built with React, designed to make learning about cybersecurity engaging and accessible. The platform features interactive games, real-time alerts, a global chat system, and comprehensive learning modules.
 
@@ -44,8 +44,8 @@ An interactive cybersecurity education platform built with React, designed to ma
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cybersec-edu.git
-cd cybersec-edu
+git clone https://github.com/yourusername/CyberEdu.git
+cd CyberEdu
 ```
 
 2. Install dependencies
