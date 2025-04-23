@@ -44,8 +44,8 @@ An interactive cybersecurity education platform built with React, designed to ma
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/CyberEdu.git
-cd CyberEdu
+git clone https://github.com/yourusername/cybersecedu.git
+cd cybersecedu
 ```
 
 2. Install dependencies
